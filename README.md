@@ -13,12 +13,7 @@ Blending tech with thoughtfulness. Building towards a future in financial engine
 &nbsp;
 
 ### 🧑‍💻 Programming Languages:
-<img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" height="30" style="margin-right:12px;">
-<img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python" height="30" style="margin-right:12px;">
-<img src="https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white" height="30" style="margin-right:12px;">
-<img src="https://img.shields.io/badge/MQL4-0088CC?style=flat-square&logoColor=white" height="30" style="margin-right:12px;">
-<img src="https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown&logoColor=white" height="30" style="margin-right:12px;">
-<img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" height="30">
+<img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" height="30" style="margin-right:12px;"> <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python" height="30" style="margin-right:12px;"> <img src="https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white" height="30" style="margin-right:12px;"> <img src="https://img.shields.io/badge/MQL4-0088CC?style=flat-square&logoColor=white" height="30" style="margin-right:12px;"> <img src="https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown&logoColor=white" height="30" style="margin-right:12px;"> <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" height="30">
 
 ---
 
