@@ -6,6 +6,10 @@
 
 ---
 
+### 📬 Preferred contact  
+For faster replies: [paultunda35@gmail.com](mailto:paultunda35@gmail.com)
+
+
 &nbsp;
 
 Blending tech with thoughtfulness. Building towards a future in financial engineering.
